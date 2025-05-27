@@ -29,6 +29,7 @@ params:
   repo_url: 'https://github.com/NewGraphEnvironment/fish_passage_bulkley_2022_reporting/'
   report_url: 'https://newgraphenvironment.github.io/fish_passage_bulkley_2022_reporting'
   update_packages: FALSE
+  gis_project_name: "sern_skeena_2023"
 nocite: |
   @busch_etal2013LandscapeLevelModel, 
   @woll_etal2017SalmonEcological,
@@ -52,7 +53,7 @@ description: "Bulkley Fish Passage Planning 2022"
 
 ```{r switch-gitbook-html, echo=FALSE}
 gitbook_on <- TRUE
-gitbook_on <- FALSE  ##we just need turn  this on and off to switch between gitbook and pdf via paged.js
+# gitbook_on <- FALSE  ##we just need turn  this on and off to switch between gitbook and pdf via paged.js
 
 ```
 
