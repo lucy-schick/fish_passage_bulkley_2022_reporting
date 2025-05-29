@@ -29,7 +29,11 @@ PSCIS crossing `r as.character(my_site)` is located on `r fpr::fpr_my_pscis_info
 
 <br>
 
-During 2022 field surveys, three previously un-assessed stream crossings located upstream of the upper most railway culverts (PSCIS 124423) were surveyed for fish passage (PSCIS 198117 on 9th avenue, 198116 on Highway 16/10th avenue and 198115 on 13th avenue). Downstream of these three crossings the stream flows through six more road/rail crossings before it's confluence with Station Creek. A small bridge (modelled crossing 24704553 - a.k.a Mile 48) is located under the CN Railway approximately 875m upstream of the highway and at the time of reporting, there was an un-assessed crossing (1803294) on the subject tributary just upstream of it's confluence with Waterfall Creek. Site surveys downstream in Waterfall Creek in 2021 along with review of aerial imagery indicate that modelled crossing 1803294 likely does not exist as the stream appears to run adjacent to the railway at this location and not cross the road.  The location of modeled crossing 1803294 would need to be accessed from the west by crossing the CN Railway or from the east via a private road located behind gates to the New Hazelton sewage treatment facility.
+Three additional crossings in the Waterfall/Station Creek system—PSCIS 124420, 124421, and 124422—were assessed by @irvine2022BulkleyRiver in 2021. Detailed assessments of these structures, along with further information on the Waterfall/Station system, are provided in the [Bulkley River and Morice River Watershed Groups Fish Passage Restoration Planning 2021](https://www.newgraphenvironment.com/fish_passage_skeena_2021_reporting/) report (Figure \@ref(fig:fig-waterfall)).
+
+<br>
+
+During 2022 field surveys, three previously un-assessed stream crossings located upstream of the upper most railway culverts (PSCIS 124423) were surveyed for fish passage (PSCIS 198117 on 9th avenue, 198116 on Highway 16/10th avenue and 198115 on 13th avenue). Downstream of these three crossings the stream flows through six more road/rail crossings before it's confluence with Station Creek, two of which were assessed by @irvine2022BulkleyRiver in 2021 (PSCIS 124421, 124422). A small bridge (modelled crossing 24704553 - a.k.a Mile 48) is located under the CN Railway approximately 875m upstream of the highway and at the time of reporting, there was an un-assessed crossing (1803294) on the subject tributary just upstream of it's confluence with Waterfall Creek. Site surveys downstream in Waterfall Creek in 2021 along with review of aerial imagery indicate that modelled crossing 1803294 likely does not exist as the stream appears to run adjacent to the railway at this location and not cross the road.  The location of modeled crossing 1803294 would need to be accessed from the west by crossing the CN Railway or from the east via a private road located behind gates to the New Hazelton sewage treatment facility.
 
 <br>
 
@@ -43,12 +47,13 @@ As the subject tributary to Waterfall Creek was not mapped in the freshwater atl
 
 ```{r fig-waterfall, fig.cap = my_caption}
 
-my_caption = 'Map of Station Creek and Watershed Creek watersheds. Pink line indicates sections of tributary to Waterfall Creek that were surveyed and that at the time of reporting were not mapped correctly in the freshwater atlas.'
+my_caption = 'Map of Station Creek and Waterfall Creek watersheds. Pink line indicates the sections of Waterfall Creek that were surveyed and that at the time of reporting were not mapped correctly in the freshwater atlas.'
 
 knitr::include_graphics('fig/waterfall.png')
 
 ```
 
+<br>
 
 ## Background {.unnumbered}
 
