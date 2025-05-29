@@ -29,7 +29,7 @@ PSCIS crossing `r as.character(my_site)` is located on `r fpr::fpr_my_pscis_info
 
 <br>
 
-Three additional crossings in the Waterfall/Station Creek system—PSCIS 124420, 124421, and 124422—were assessed by @irvine2022BulkleyRiver in 2021. Detailed assessments of these structures, along with further information on the Waterfall/Station system, are provided in the [Bulkley River and Morice River Watershed Groups Fish Passage Restoration Planning 2021](https://www.newgraphenvironment.com/fish_passage_skeena_2021_reporting/) report (Figure \@ref(fig:fig-waterfall)).
+Three additional crossings in the Waterfall/Station Creek system—PSCIS 124420, 124421, and 124422—were assessed by @irvine2022BulkleyRiver in 2021 (Figure \@ref(fig:fig-waterfall)). Detailed assessments of these structures, along with further information on the Waterfall/Station system, are provided in the [Bulkley River and Morice River Watershed Groups Fish Passage Restoration Planning 2021](https://www.newgraphenvironment.com/fish_passage_skeena_2021_reporting/) report.
 
 <br>
 
