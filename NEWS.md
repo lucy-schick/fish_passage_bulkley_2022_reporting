@@ -1,6 +1,7 @@
 # fish_passage_bulkley_2022_reporting 0.1.9 (2025-05-27)
 
 - Update Stock Creek memo - 195943 - with fish sampling data and aerial imagery from 2024
+- Update Waterfall Creek memo with stream survey data from 2024. Clarify text and link to other relevent reports
 - Update report to white theme an update figures accordingly
 - Update packages 
 
