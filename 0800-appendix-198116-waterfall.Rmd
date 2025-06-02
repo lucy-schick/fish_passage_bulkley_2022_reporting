@@ -138,7 +138,7 @@ Approximately 400m upstream of PSCIS crossing 198116, a second culvert (PSCIS `r
 
 <br>
 
-In 2024, the stream was revisited and walked from the Waterfall Creek/Highway 16 crossing (PSCIS `r as.character(my_site)`) upstream to the waterfall. The lower ~200m of channel flows through residential properties and is slightly constricted, but transitions into a more natural channel with healthy shrub and cottonwood riparian vegetation upstream. Gravels suitable for dolly varden and rainbow trout spawning were abundant, and intermittent pools up to 50cm deep were observed throughout. At the time of assessment, coho had not yet been transferred into the stream by the annual trap and truck operation led by the Chicago Creek Society.
+In 2024, the stream was revisited and surveyed from the Waterfall Creek/Highway 16 crossing (PSCIS `r as.character(my_site)`) upstream to the waterfall. The lower ~200m of channel flows through residential properties and was slightly constricted, but transitioned into a more natural channel with healthy shrub and cottonwood riparian vegetation upstream. Gravels suitable for dolly varden and rainbow trout spawning were abundant, and intermittent pools up to 50cm deep were observed throughout. The average channel width was 4.3m, the average wetted width was 3.3m, and the average gradient was 1.9%. Total cover amount was rated as moderate with small woody debris dominant. Cover was also present as undercut banks, deep pools, and overhanging vegetation. The dominant substrate was gravels with fines sub-dominant. At the time of assessment, coho had not yet been transferred into the stream by the annual trap and truck operation led by the Chicago Creek Society. 
 
 <br>
 
@@ -300,7 +300,7 @@ grid::grid.raster(jpeg::readJPEG(my_photo1))
 
 my_photo2 = fpr::fpr_photo_pull_by_str(str_to_pull = 'rotated')
 
-my_caption2 = paste0('Waterfall at the end of survey, upstream of PSCIS crossing ', my_site3, '.')
+my_caption2 = paste0('Waterfall located approximately 1200m upstream of PSCIS crossing ', my_site, ', that blocks upstream migration for all life stages and species.')
 
 ```
 
